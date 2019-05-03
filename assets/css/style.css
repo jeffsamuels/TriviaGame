@@ -1,0 +1,17 @@
+body {background-color: rgb(22, 21, 21); background-image: url('../../assets/images/twinpines.jpg'); background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; }
+
+    .quiz {background-color:  rgb(102, 93, 93), text-align = center; /* border-style: solid; border-width: 5px; 
+       border-color: rgb(49, 47, 47); */ margin-left: 255px;  margin-right: 255px; padding: 5px; box-shadow: 100px 100px 100px 100px inset rgba(0,0,0,.2);} 
+
+    H1 {text-align: center; background-color: rgb(102, 93, 93)}
+    H2 {text-align: center; background-color: rgb(102, 93, 93)}
+
+img {max-width: 600px; max-height: 200px; display: block; margin-left: auto; margin-right: auto}
+
+.logo {margin-top: 100px}
+
+.btn {color: rgb(226, 52, 21); background-color:  rgb(102, 93, 93); margin-left: auto; margin-right: auto}
+
+.timer {color: rgb(226, 52, 21)}
